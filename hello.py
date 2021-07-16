@@ -1,4 +1,5 @@
-def greeting():
+def greeting(param:str):
+    print(param)
     print('hello')
     print('hallo')
 
