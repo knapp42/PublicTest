@@ -1,0 +1,6 @@
+def greeting():
+    print('hello')
+    print('hallo')
+
+if __name__ == '__main__':
+    greeting()
